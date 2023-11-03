@@ -1,0 +1,9 @@
+{
+  "/page": "app/page.js",
+  "/projects/promo/page": "app/projects/promo/page.js",
+  "/projects/formvalid/page": "app/projects/formvalid/page.js",
+  "/projects/posts/page": "app/projects/posts/page.js",
+  "/projects/page": "app/projects/page.js",
+  "/projects/form/page": "app/projects/form/page.js",
+  "/projects/basket/page": "app/projects/basket/page.js"
+}
