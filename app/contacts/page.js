@@ -6,5 +6,4 @@ function ContactsPage() {
             <Contacts />
         </div>);
 }
-
 export default ContactsPage;
