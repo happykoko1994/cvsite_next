@@ -1,9 +1,9 @@
 const projects = [
     {
-        link: "/projects/basket",
-        image: "../images/basket.png",
-        alt: 'basket',
-        body: 'Корзина товаров',
+        link: "/projects/shop",
+        image: "../images/shop.png",
+        alt: 'shop',
+        body: 'Онлайн магазин',
     },
     {
         link: "/projects/convert",
@@ -52,6 +52,12 @@ const projects = [
         image: "../images/posts.png",
         alt: 'posts',
         body: 'Список постов',
+    },
+    {
+        link: "/projects/basket",
+        image: "../images/basket.png",
+        alt: 'basket',
+        body: 'Корзина товаров',
     },
 ]
 export default projects

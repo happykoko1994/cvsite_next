@@ -1,11 +1,11 @@
 const projectDetails = [
     {
-        title: "Корзина товаров",
-        link: "/projects/basket",
-        image: "../images/basket.png",
-        alt: 'basket',
-        body: 'Приложение Корзина с функциями: добавление и удаления товаров в корзину, поиска по наимениванию товара, а также подсчета стоимости добавленных в корзину товаров. Создана при помощи библиотеки React.',
-        skills: 'Skills : CSS, React',
+        title: "Онлайн магазин",
+        link: "/projects/shop",
+        image: "../images/shop.png",
+        alt: 'shop',
+        body: 'Сайт онлайн магазина на ReactJS, с возможностью логина, выбора категорий товаров и их сортировки, постраничный вывод товаров. Реализована админ панель для добавления новых позиций.',
+        skills: 'Skills : React(router, bootstrap), axios ',
         gitLink: 'https://github.com/happykoko1994/basket',
     },
     {
@@ -79,6 +79,15 @@ const projectDetails = [
         body: 'Список постов, получаемый с JSONPlaceholder, при помощи axios, с возможностью отсортировать, выполнить поиск и добавить новый пост, также перейти на страницу поста с подробностями. Организована функция login/logout с отображением различных роутов.',
         skills: 'Skills : CSS, React, axios',
         gitLink: 'https://github.com/happykoko1994/postsReact',
+    },
+    {
+        title: "Корзина товаров",
+        link: "/projects/basket",
+        image: "../images/basket.png",
+        alt: 'basket',
+        body: 'Приложение Корзина с функциями: добавление и удаления товаров в корзину, поиска по наимениванию товара, а также подсчета стоимости добавленных в корзину товаров. Создана при помощи библиотеки React.',
+        skills: 'Skills : CSS, React',
+        gitLink: 'https://github.com/happykoko1994/basket',
     },
 
 ]
