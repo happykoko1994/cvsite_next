@@ -6,7 +6,7 @@ const projectDetails = [
         alt: 'shop',
         body: 'Сайт онлайн магазина на ReactJS, с возможностью логина, выбора категорий товаров и их сортировки, постраничный вывод товаров. Реализована админ панель для добавления новых позиций.',
         skills: 'Skills : React(router, bootstrap), axios ',
-        gitLink: 'https://github.com/happykoko1994/basket',
+        gitLink: 'https://github.com/happykoko1994/shop',
     },
     {
         title: "Конвертация валюты",
