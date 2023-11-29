@@ -13,7 +13,6 @@ function Footer() {
                             target="_blank">hh.ru</Link></li>
                     </ul>
                 </div>
-                <div className="copyright">© All rights reserved 2023</div>
 
             </div>
         </footer>
