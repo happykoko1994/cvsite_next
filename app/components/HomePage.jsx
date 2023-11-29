@@ -11,7 +11,9 @@ function HomePage() {
                         <strong>Hello, my name is <em>Maksim</em></strong> a frontend developer
                     </h1>
                     <div className="header__text">
-                        <p>Web applications development</p>
+                        <b>
+                            React/Next redux/mobx JS CSS3/SСSS Git Figma.
+                        </b>
                     </div>
                     <Link href="https://github.com/happykoko1994/" target="_blank" className="btn">Github</Link>
                 </div>
