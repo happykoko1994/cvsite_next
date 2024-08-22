@@ -5,11 +5,12 @@ const projects = [
         alt: 'shop',
         body: 'Онлайн магазин',
     },
+
     {
-        link: "/projects/convert",
-        image: "../images/convert.png",
-        alt: 'convert',
-        body: 'Конвертация валюты',
+        link: "/projects/info",
+        image: "../images/info.png",
+        alt: 'info',
+        body: 'Инфографика',
     },
     {
         link: "/projects/cv",
@@ -58,6 +59,13 @@ const projects = [
         image: "../images/basket.png",
         alt: 'basket',
         body: 'Корзина товаров',
+    },
+
+    {
+        link: "/projects/convert",
+        image: "../images/convert.png",
+        alt: 'convert',
+        body: 'Конвертация валюты',
     },
 ]
 export default projects
