@@ -12,7 +12,7 @@ function HomePage() {
                     </h1>
                     <div className="header__text">
                         <b>
-                            React/Next redux/mobx JS CSS3/SСSS Git Figma.
+                            React/Next redux/mobx JS CSS3/SСSS.
                         </b>
                     </div>
                     <Link href="https://github.com/happykoko1994/" target="_blank" className="btn">Github</Link>
