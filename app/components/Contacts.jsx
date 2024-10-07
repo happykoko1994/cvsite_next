@@ -15,7 +15,6 @@ function Contacts() {
                     <p>t.me/happmax</p>
                     <div className="title-2">WhatsApp</div>
                     <p>+7 (778) 784-31-97 Казахстан</p>
-                    <p> +7 (905) 275-77-88 Россия</p>
                     <div className="title-2">VK</div>
                     <p>vk.com/live2sputch</p>
                 </div>
