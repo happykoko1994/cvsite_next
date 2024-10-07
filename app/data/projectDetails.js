@@ -20,13 +20,13 @@ const projectDetails = [
     },
 
     {
-        title: "Портфолио",
-        link: "/projects/cv",
-        image: "../images/cv.png",
-        alt: 'cv',
-        body: 'Страница-портфолио, изначально сделанная на нативном JS, затем перенесена на NextJS, с активными ссылками на работы и репозиторий Github.',
-        skills: 'HTML/NextJS, SCSS, Javascript',
-        gitLink: 'https://github.com/happykoko1994/CVSite',
+        title: "Верстка сайта",
+        link: "/projects/club",
+        image: "../images/club.png",
+        alt: 'club',
+        body: 'Верстка тестового сайта выполнена на чистом HTML, CSS и JavaScript без использования плагинов и фреймворков. Реализована адаптивная верстка с двумя бегущими строками: одна предназначена для десктопных устройств, другая — для мобильных. Также на сайте предусмотрены два независимых слайдера для разных экранов, с разделением функциональности и отдельной пагинацией для каждого из них. Верстка адаптируется под различные размеры экранов, обеспечивая корректное отображение элементов и удобство взаимодействия на всех устройствах.',
+        skills: 'HTML, CSS, JS',
+        gitLink: 'https://github.com/happykoko1994/yandextest',
     },
     {
         title: "Фото-галерея",
@@ -99,6 +99,15 @@ const projectDetails = [
         body: '123Приложение для конвертирования валют. Создано с помощью библиотеки React.',
         skills: 'Skills : CSS, React',
         gitLink: 'https://github.com/happykoko1994/convert',
+    },
+    {
+        title: "Портфолио",
+        link: "/projects/cv",
+        image: "../images/cv.png",
+        alt: 'cv',
+        body: 'Страница-портфолио, изначально сделанная на нативном JS, затем перенесена на NextJS, с активными ссылками на работы и репозиторий Github.',
+        skills: 'HTML/NextJS, SCSS, Javascript',
+        gitLink: 'https://github.com/happykoko1994/CVSite',
     },
 
 ]

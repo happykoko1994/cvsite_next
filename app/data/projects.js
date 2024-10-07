@@ -13,9 +13,9 @@ const projects = [
         body: 'Инфографика',
     },
     {
-        link: "/projects/cv",
-        image: "../images/cv.png",
-        alt: 'cv',
+        link: "/projects/club",
+        image: "../images/club.png",
+        alt: 'club',
         body: 'Портфолио',
     },
     {
@@ -66,6 +66,12 @@ const projects = [
         image: "../images/convert.png",
         alt: 'convert',
         body: 'Конвертация валюты',
+    },
+    {
+        link: "/projects/cv",
+        image: "../images/cv.png",
+        alt: 'cv',
+        body: 'Портфолио',
     },
 ]
 export default projects
