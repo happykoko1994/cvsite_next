@@ -10,7 +10,13 @@ function Project({ item }) {
                 <div className="project-details">
                     <h1 className="title-1">{projectDetails[item].title}</h1>
                     <div className="project-details__cover">
-                        <img src={projectDetails[item].image}></img>
+                        {Array.isArray(projectDetails[item].image) ? (
+                            projectDetails[item].image.map((img, index) => (
+                                <img key={index} src={img} />
+                            ))
+                        ) : (
+                            <img src={projectDetails[item].image}/>
+                        )}
                     </div>
                     <div className="project-details__desc">
                         <p>{projectDetails[item].body}</p>
