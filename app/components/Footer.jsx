@@ -27,7 +27,7 @@ function Footer() {
               </Link>
             </li>
             <li className="social__item">
-              <Link href={"t.me/happmax"} target="_blank">
+              <Link href={"https://t.me/happmax"} target="_blank">
                 TG
               </Link>
             </li>
