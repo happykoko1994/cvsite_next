@@ -16,7 +16,7 @@ const projects = [
         link: "/projects/club",
         image: "../images/club.png",
         alt: 'club',
-        body: 'Портфолио',
+        body: 'Верстка сайта',
     },
     {
         link: "/projects/galery",
