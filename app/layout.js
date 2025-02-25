@@ -1,5 +1,7 @@
 import { DM_Sans, Poppins } from 'next/font/google'
 import './styles/globals.css'
+import "./styles/globals.css";
+import "./styles/homepage.css";
 import Nav from './components/Nav'
 import Footer from './components/Footer'
 
